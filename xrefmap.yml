@@ -1,0 +1,27 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Docum123123sdf
+  name: Docum123123sdf
+  href: api/Docum123123sdf.html
+  commentId: N:Docum123123sdf
+  fullName: Docum123123sdf
+  nameWithType: Docum123123sdf
+- uid: Docum123123sdf.Class1
+  name: Class1
+  href: api/Docum123123sdf.Class1.html
+  commentId: T:Docum123123sdf.Class1
+  fullName: Docum123123sdf.Class1
+  nameWithType: Class1
+- uid: Docum123123sdf.Class1.method(System.Int32,System.Int32)
+  name: method(Int32, Int32)
+  href: api/Docum123123sdf.Class1.html#Docum123123sdf_Class1_method_System_Int32_System_Int32_
+  commentId: M:Docum123123sdf.Class1.method(System.Int32,System.Int32)
+  fullName: Docum123123sdf.Class1.method(System.Int32, System.Int32)
+  nameWithType: Class1.method(Int32, Int32)
+- uid: Docum123123sdf.Class1.method*
+  name: method
+  href: api/Docum123123sdf.Class1.html#Docum123123sdf_Class1_method_
+  commentId: Overload:Docum123123sdf.Class1.method
+  fullName: Docum123123sdf.Class1.method
+  nameWithType: Class1.method
